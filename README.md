@@ -1,6 +1,8 @@
 # Prophecy2024
 
-![logo](img/logo.png)
+<p align="center">
+  <img src="img/logo.png" alt="avatar">
+</p>
 
 - Here I predict that AI will replace most programmers within 10 years. 
 
