@@ -1,5 +1,7 @@
 # Prophecy2024
 
+![logo](img/logo.png)
+
 - Here I predict that AI will replace most programmers within 10 years. 
 
 - In the future, the direction of programmers will shift to the era of digital biology and reality neural networks.
