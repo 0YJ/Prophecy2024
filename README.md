@@ -10,11 +10,13 @@
 
 - Humanity will usher in the cyber era, and organs other than the brain will be replaced by machines. Human life span will be greatly increased. 
 
+- Gender will be freely chosen and changeable. You can have characteristics of both men and women, or neither.
+
 - This world will have one common language, that is prompt language which has a special rule for contacting with AI. 
 
 - AI will be combined with humans, not only in our cyber moduels, but also in our life.
 
-- Shared perception will be one of the hot topic, share your feeling with anyone through remote connection.
+- Sharing perception will be one of the hot topic, you can share your feeling with anyone through remote connection. 
 
 - Human abilities will be greatly improved with the blessing of AI.
 
