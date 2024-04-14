@@ -10,7 +10,7 @@
 
 - Humanity will usher in the cyber era, and organs other than the brain will be replaced by machines. Human life span will be greatly increased. 
 
-- This world will have one common language, that is prompt language which has a special rule for contact with AI. 
+- This world will have one common language, that is prompt language which has a special rule for contacting with AI. 
 
 - AI will be combined with humans, not only in life, but also in our cyber moduel.
 
