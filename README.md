@@ -12,7 +12,7 @@
 
 - This world will have one common language, that is prompt language which has a special rule for contacting with AI. 
 
-- AI will be combined with humans, not only in life, but also in our cyber moduel.
+- AI will be combined with humans, not only in our cyber moduels, but also in our life.
 
 - Shared perception will be one of the hot topic, share your feeling with anyone through remote connection.
 
