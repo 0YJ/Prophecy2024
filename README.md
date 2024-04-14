@@ -20,4 +20,4 @@
 
 - Human abilities will be greatly improved with the blessing of AI.
 
-- Human ambition can lead to extinction, which is "the end". Unless before that day comes, all human beings can communicate with each other though meta network. 
+- Human ambition can lead to extinction, which is "the end". Unless we can communicate our mind with each other though meta network before that. 
